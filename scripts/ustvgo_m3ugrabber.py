@@ -15,7 +15,7 @@ import requests
 def grab(name, code, logo):
     data = {'stream': code}
     m3u = requests.post('https://ustvgo.tv/data.php', data=data).text
-    print(f'\n#EXTINF:-1 tvg-name="{code}" group-name="ustvgo" tvg-logo="{logo}", {name}')
+    print(f'\n#EXTINF:-1 tvg-name="{code}" group-title="ustvgo" tvg-logo="{logo}", {name}')
     print(m3u)
 
 
