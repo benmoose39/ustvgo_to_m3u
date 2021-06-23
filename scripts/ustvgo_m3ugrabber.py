@@ -12,11 +12,10 @@ banner = r'''
 
 import requests
 
-def grab(url):
-    url = url.split('?')
-    data = {}
-    data['stream'] = url[1].split('=')[1]
-    m3u = requests.post(url[0], data=data).text
+def grab(name, code, logo):
+    data = {'stream': code}
+    m3u = requests.post('https://ustvgo.tv/data.php', data=data).text
+    print(f'\n#EXTINF:-1 tvg-name="{code}" group-name="ustvgo" tvg-logo="{logo}", {name}')
     print(m3u)
 
 
@@ -28,7 +27,7 @@ with open('../ustvgo_channel_info.txt') as file:
         if not line or line.startswith('~~'):
             continue
         line = line.split('|')
-        name = line[0]
-        link = line[1]
-        print(f'\n#EXTINF:-1, {name}')
-        grab(link)
+        name = line[0].strip()
+        code = line[1].strip()
+        logo = line[2].strip()
+        grab(name, code, logo)
