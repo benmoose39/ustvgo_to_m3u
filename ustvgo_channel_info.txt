@@ -1,6 +1,6 @@
-ABC  | ABC | https://upload.wikimedia.org/wikipedia/commons/5/56/ABC_%282013%29_Dark_Grey.svg
+ABC | ABC | https://upload.wikimedia.org/wikipedia/commons/5/56/ABC_%282013%29_Dark_Grey.svg
 ACC Network  | ACCN | https://news.syr.edu/wp-content/uploads/2019/08/New-ACCNX-logo-690x489.jpg
-AE  | AE | https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png
+AE | AE | https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png
 AMC  | AMC | https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg
 Animal Planet  | Animal | https://d3dh6of9cnaq4t.cloudfront.net/Pictures/1024x536/7/3/5/6735_animalplanetnewlogo2018_906859.jpg
 BBCAmerica  | BBCAmerica | https://images.amcnetworks.com/bbcamerica.com/wp-content/uploads/2012/06/bbc_logo_1280x720.jpg
