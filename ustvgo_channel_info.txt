@@ -1,7 +1,7 @@
-ABC | ABC | https://upload.wikimedia.org/wikipedia/commons/5/56/ABC_%282013%29_Dark_Grey.svg
+ABC | ABC | https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/240px-American_Broadcasting_Company_Logo.svg.png
 ACC Network  | ACCN | https://news.syr.edu/wp-content/uploads/2019/08/New-ACCNX-logo-690x489.jpg
 AE | AE | https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png
-AMC  | AMC | https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg
+AMC  | AMC | https://variety.com/wp-content/uploads/2020/03/amc-network-logo.jpg
 Animal Planet  | Animal | https://d3dh6of9cnaq4t.cloudfront.net/Pictures/1024x536/7/3/5/6735_animalplanetnewlogo2018_906859.jpg
 BBCAmerica  | BBCAmerica | https://images.amcnetworks.com/bbcamerica.com/wp-content/uploads/2012/06/bbc_logo_1280x720.jpg
 Big Ten Network  | BTN | https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png
@@ -13,16 +13,16 @@ CBS  | CBS | https://mms.businesswire.com/media/20201008005740/en/828766/23/cbs_
 CBS Sports Network  | CBSSN | https://www.groundedreason.com/wp-content/uploads/2020/02/cbs_sports_network.png
 Cinemax  | Cinemax | https://upload.wikimedia.org/wikipedia/commons/1/15/Cinemax_new.png
 CMT  | CMT | https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png
-Cartoon Network  | CN | https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg
+Cartoon Network  | CN | https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png
 CNBC  | CNBC | https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png
-CNN  | CNN | https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg
+CNN  | CNN |https://1000logos.net/wp-content/uploads/2021/04/CNN-logo.png
 Comedy Central | Comedy | https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Comedy_Central.svg/150px-Comedy_Central.svg.png
-CW  | CW | https://upload.wikimedia.org/wikipedia/commons/4/4c/The_CW.svg
+CW  | CW | https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png
 Destination America  | DA | https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/1200px-Destination_America_logo.svg.png
 Discovery  | Discovery | https://garhwalpost.in/wp-content/uploads/2021/02/discovery-Channel.png
 Disney  | Disney | https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png
 DisneyJr  | DisneyJr | https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png
-DisneyXD  | DisneyXD | https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg
+DisneyXD  | DisneyXD | https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png
 Do it yourself (DIY)  | DIY | https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/DIY_Network_logo.svg/1200px-DIY_Network_logo.svg.png
 E!  | E | https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png
 ESPN  | ESPN | https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png
@@ -31,14 +31,14 @@ ESPNU  | ESPNU | https://secure.espncdn.com/watchespn/images/channels/500b1f7c-d
 ESPNews  | ESPNews | https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1280px-ESPNews.svg.png
 FoodNetwork  | FoodNetwork | https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png
 FOX  | FOX | https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png
-FoxBusiness  | FoxBusiness | https://upload.wikimedia.org/wikipedia/commons/8/8a/Fox_Business.svg
+FoxBusiness  | FoxBusiness | https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Fox_Business_Logo.svg/1280px-Fox_Business_Logo.svg.png
 FoxNews  | FoxNews | https://variety.com/wp-content/uploads/2013/12/fox-news-logo.jpg
 Freeform  | Freeform | https://image.roku.com/developer_channels/prod/25c45c30089feb96023180a823a99a8c12ff389e097e9817d98e13852f5ca340.png
 Fox Sports 1 (FS1)  | FS1 | https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png
 Fox Sports 2 (FS2)  | FS2 | https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png
-FX  | FX | https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg
+FX  | FX | https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png
 FX Movie Channel  | FXMovie | https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1200px-FXM_Logo.svg.png
-FXX  | FXX | https://upload.wikimedia.org/wikipedia/commons/3/3e/FXX_Logo.svg
+FXX  | FXX | https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png
 Golf Channel  | GOLF | https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png
 Game Show Network  | GSN | https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png
 Hallmark Channel  | Hallmark | https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/1200px-Hallmark_Channel_logo.svg.png
@@ -53,7 +53,7 @@ Lifetime Movie Network  | LifetimeM | https://upload.wikimedia.org/wikipedia/en/
 MLB Network  | MLB | https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png
 Motor Trend  | MotorTrend | https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Motor_Trend_logo.svg/1280px-Motor_Trend_logo.svg.png
 MSNBC  | MSNBC | https://media1.s-nbcnews.com/i/newscms/2018_21/2442291/msnbc-og-image_c986de7e1bb6ad2281723b692aa61990.png
-MTV  | MTV | https://upload.wikimedia.org/wikipedia/commons/0/0f/MTV_Logo_2010.svg
+MTV  | MTV | https://1000logos.net/wp-content/uploads/2021/04/MTV-logo.png
 National Geographic  | NatGEO | https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png
 Nat Geo Wild  | NatGEOWild | https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png
 NBA TV  | NBA | https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png
@@ -87,8 +87,8 @@ truTV  | TruTV | https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV
 TV Land  | TVLand | https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1200px-TV_Land_2015_logo.svg.png
 The Weather Channel  | TWC | https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png
 Univision  | Univision | https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png
-USA Network  | USANetwork | https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg
+USA Network  | USANetwork | https://i.pinimg.com/originals/3a/6e/f2/3a6ef23a9908ceb32469f8ad2c2ba44f.jpg
 VH1  | VH1 | https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png
 We TV  | WETV | https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/We_TV_logo_2014.svg/1200px-We_TV_logo_2014.svg.png
-WWE Network  | WWE | https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg
-YES Network  | YES | https://upload.wikimedia.org/wikipedia/commons/b/be/YES_Network_logo.svg
+WWE Network  | WWE | https://www.denofgeek.com/wp-content/uploads/2014/01/wwenetworklogo.png
+YES Network  | YES | https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1024px-YES_Network_logo.svg.png
