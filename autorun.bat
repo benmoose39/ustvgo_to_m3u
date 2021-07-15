@@ -1,4 +1,4 @@
-pip install requests
-
+@echo off
 cd scripts/
-python ustvgo_m3ugrabber.py > ../ustvgo.m3u
+python ustvgo_m3ugrabber.py
+pause
