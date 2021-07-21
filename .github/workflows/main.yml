@@ -34,6 +34,8 @@ jobs:
       - name: Main
         run: |
           pwd
+          python3 -m pip install tqdm
+          python3 -m pip install requests
           chmod +x autorun.sh
           ./autorun.sh
         
