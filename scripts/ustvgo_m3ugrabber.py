@@ -59,7 +59,7 @@ s = requests.Session()
 with open('../ustvgo_channel_info.txt') as file:
     with open('../ustvgo.m3u', 'w') as playlist:
         print('[*] Generating your playlist, please wait...\n')
-        playlist.write('#EXTM3U x-tvg-url="https://raw.githubusercontent.com/nomoney4me/ustvgo/main/output/ustvgo_epg.xml"')
+        playlist.write('#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Theitfixer85/myepg/master/blueepg.xml.gz"')
         playlist.write(f'\n{banner}\n')
         pbar = tqdm(total=total)
         for line in file:
