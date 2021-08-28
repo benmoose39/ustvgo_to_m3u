@@ -75,3 +75,4 @@ with open('../ustvgo_channel_info.txt') as file:
         pbar.close()
         print('\n[SUCCESS] Playlist is generated!\n')
         done()
+        
