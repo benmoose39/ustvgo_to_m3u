@@ -36,7 +36,7 @@ while True:
         try:
             if os.system(f'{python} -m pip install {module}') != 0:
                 raise error
-        except:
+        except Exception:
             print(f'[!] Error installing "{module}" module. Do you have pip installed?')
             input(f'[!] Playlist generation failed. Press Ctrl+C to exit...')
             done()
