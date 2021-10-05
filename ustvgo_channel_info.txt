@@ -1,4 +1,4 @@
-ABC | ABC | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/abc7.png
+ABC | ABC | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/abc-us.png
 ACC Network  | ACCN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/acc-network-us.png
 AE | AE | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/a-and-e-us.png
 AMC  | AMC | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/amc-us.png
@@ -9,7 +9,7 @@ BET  | BET | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/b
 Boomerang  | Boomerang | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/boomerang-us.png
 Bravo  | Bravo | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/bravo-us.png
 C-span  | CSPAN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/c-span-1-us.png
-CBS  | CBS | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/cbs_new_york.png
+CBS  | CBS | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-logo-white-us.png
 CBS Sports Network  | CBSSN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-sports-network-us.png
 Cinemax  | Cinemax | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cinemax-us.png
 CMT  | CMT | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cmt-us.png
@@ -57,7 +57,7 @@ MTV  | MTV | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/U
 National Geographic  | NatGEO | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/national-geographic-us.png
 Nat Geo Wild  | NatGEOWild | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nat-geo-wild-us.png
 NBA TV  | NBA | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nba-tv-us.png
-NBC  | NBC | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/nbc_ny.png
+NBC  | NBC | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nbc-logo-2013-us.png
 NBC Sports (NBCSN)  | NBCSN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nbcsn-us.png
 NFL Network  | NFL | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/nfl-network-us.png
 NFL Redzone  | NFLRZ | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nfl-red-zone-us.png
