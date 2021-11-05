@@ -2,7 +2,16 @@
 
 Grabs m3u links from ustvgo.tv
 
-### Usage
+**NEW UPDATE**: If you hate setting up cron jobs, just execute `server.py` (based on Flask, yes it's a webserver) and leave it running. 
+
+### Steps to run `server.py`:
+> Have flask installed: `pip install flask`
+
+> Edit the script to add your server device's IP (change the port too, if you wish)
+
+> Assuming port 9000, if your server device's IP is 10.10.10.10, playlist url would be: http://10.10.10.10:9000/ustvgo.m3u
+
+### Usage (The raw script, requires you to set up a cron job every 4 hours)
 
 ``` bash
 git clone https://github.com/benmoose39/ustvgo_to_m3u.git
