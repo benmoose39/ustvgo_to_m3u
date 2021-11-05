@@ -2,7 +2,7 @@
 
 Grabs m3u links from ustvgo.tv
 
-**NEW UPDATE**: If you hate setting up cron jobs, just execute `server.py` (based on Flask, yes it's a webserver) and leave it running. 
+**NEW UPDATE: If you hate setting up cron jobs, just execute `server.py` (based on Flask, yes it's a webserver) and leave it running.**
 
 ### Steps to run `server.py`:
 > Have flask installed: `pip install flask`
