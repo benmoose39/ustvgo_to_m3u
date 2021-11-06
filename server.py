@@ -1,7 +1,8 @@
 import requests
+import os
 from flask import Flask, request
 
-SERVER_IP = '10.10.10.10'
+SERVER_IP = '10.10.10.10'   # Edit this line
 PORT = 9000
 
 app = Flask(__name__)
@@ -9,7 +10,8 @@ app = Flask(__name__)
 @app.route('/ustvgo.m3u')
 def playlist_generator():
     playlist = '#EXTM3U'
-    with open('ustvgo_channel_info.txt') as f:
+    info_file = f'{os.path.dirname(__file__)}/ustvgo_channel_info.txt'
+    with open(info_file) as f:
         for line in f:
             line = line.strip()
             if not line:
@@ -32,5 +34,5 @@ def getChannel():
     m3u = requests.get(pl).text.strip().split('\n')[-1]
     return head + base + m3u
 
-
-app.run('0.0.0.0', PORT)
+if __name__ == '__main__':
+    app.run('0.0.0.0', PORT)
