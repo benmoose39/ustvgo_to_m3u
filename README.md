@@ -34,3 +34,8 @@ python3 autoCRON.py
 ### Connect with the community
 
 If you need help setting up the script, connect: https://discord.gg/dmgYmAEdee
+
+
+### Support
+
+🙂 https://www.buymeacoffee.com/benmoose39
