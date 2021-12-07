@@ -5,12 +5,13 @@ from flask import Flask, request
 SERVER_IP = '10.10.10.10'   # Edit this line
 PORT = 9000
 
+basepath = os.path.dirname(os.path.realpath(__file__))
 app = Flask(__name__)
 
 @app.route('/ustvgo.m3u')
 def playlist_generator():
     playlist = '#EXTM3U'
-    info_file = f'{os.path.dirname(__file__)}/ustvgo_channel_info.txt'
+    info_file = f'{basepath}/ustvgo_channel_info.txt'
     with open(info_file) as f:
         for line in f:
             line = line.strip()
