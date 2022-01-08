@@ -23,7 +23,7 @@ Discovery  | Discovery | https://raw.githubusercontent.com/Theitfixer85/myepg/ma
 Disney  | Disney | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/disney-channel-us.png | 9200011893
 DisneyJr  | DisneyJr | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/disney-junior-us.png | 9200016560
 DisneyXD  | DisneyXD | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/disney-xd-us.png | 9200004852
-Do it yourself (DIY)  | DIY | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/diy-network-us.png | 9200000664
+Do it yourself (DIY)  | DIY | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/magnolia-network-us.png | 9200000664
 E!  | E | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/e-entertainment-us.png | 9233003794
 ESPN  | ESPN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/espn-us.png | 9233007996
 ESPN2  | ESPN2 | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/espn-2-us.png | 9200016131
