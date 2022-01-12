@@ -28,8 +28,12 @@ def playlist_generator():
 @app.route('/channels')
 def getChannel():
     code = request.args.get('id')
-    data = {'stream' : code}
-    pl = requests.post('https://ustvgo.tv/data.php', data=data).text
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0',
+        'Referer': 'https://ustvgo.tv/'
+    }
+    pl = requests.get(f'https://ustvgo.tv/player.php?stream={code}', headers=headers).text
+    pl = pl.replace('\n', '').split("var hls_src='")[1].split("'")[0]
     base = pl.split('playlist.m3u8')[0]
     head = '#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=818009,RESOLUTION=640x360,CODECS="avc1.64001f,mp4a.40.2"\n'
     m3u = requests.get(pl).text.strip().split('\n')[-1]
