@@ -14,6 +14,11 @@ print(banner)
 import os
 import sys
 
+
+def write_log(message):
+    with open('../log.txt', 'a') as log:
+        log.write(f'{message}\n')
+
 windows = False
 python = 'python3'
 if 'win' in sys.platform:
@@ -42,10 +47,17 @@ while True:
             done()
 
 def grab(name, code, logo):
-    data = {'stream': code}
-    m3u = s.post('https://ustvgo.tv/data.php', data=data).text
-    playlist.write(f'\n#EXTINF:-1 tvg-id="{code}" group-title="ustvgo" tvg-logo="{logo}", {name}')
-    playlist.write(f'\n{m3u}')
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0',
+            'Referer': 'https://ustvgo.tv/'
+        }
+        m3u = s.get(f'https://ustvgo.tv/player.php?stream={code}', headers=headers).text
+        m3u = m3u.replace('\n', '').split("var hls_src='")[1].split("'")[0]
+        playlist.write(f'\n#EXTINF:-1 tvg-id="{code}" group-title="ustvgo" tvg-logo="{logo}", {name}')
+        playlist.write(f'\n{m3u}')
+    except:
+        write_log(f'[!] Error grabbing {name} - This channel requires VPN')
 
 total = 0
 with open('../ustvgo_channel_info.txt') as file:
