@@ -15,10 +15,6 @@ import os
 import sys
 
 
-def write_log(message):
-    with open('../log.txt', 'a') as log:
-        log.write(f'{message}\n')
-
 windows = False
 python = 'python3'
 if 'win' in sys.platform:
@@ -57,7 +53,12 @@ def grab(name, code, logo):
         playlist.write(f'\n#EXTINF:-1 tvg-id="{code}" group-title="ustvgo" tvg-logo="{logo}", {name}')
         playlist.write(f'\n{m3u}')
     except:
-        write_log(f'[!] Error grabbing {name} - This channel requires VPN')
+        # findersfred helped me to find this, all credits to him:
+        m3u = s.get(f'https://ustvgo.tv/player.php?stream=BBCAmerica', headers=headers).text
+        m3u = m3u.replace('\n', '').split("var hls_src='")[1].split("'")[0].replace('BBCAmerica', code)
+        playlist.write(f'\n#EXTINF:-1 tvg-id="{code}" group-title="ustvgo" tvg-logo="{logo}", {name}')
+        playlist.write(f'\n{m3u}')
+        
 
 total = 0
 with open('../ustvgo_channel_info.txt') as file:
