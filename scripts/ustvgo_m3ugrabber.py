@@ -41,9 +41,16 @@ while True:
             input(f'[!] Playlist generation failed. Press Ctrl+C to exit...')
             done()
 
+def getSample():
+    headers = {'Referer':'https://ustvgo.tv/'}
+    src = s.get('https://ustvgo.tv/player.php?stream=ABC', headers=headers).text
+    global sample
+    sample = src.split("hls_src='")[1].split("'")[0]
+
 def grab(name, code, logo):
-    data = {'stream': code}
-    m3u = s.post('https://ustvgo.tv/data.php', data=data).text
+    if not sample:
+        getSample()
+    m3u = sample.replace('ABC', code)
     playlist.write(f'\n#EXTINF:-1 tvg-id="{code}" group-title="ustvgo" tvg-logo="{logo}", {name}')
     playlist.write(f'\n{m3u}')
 
@@ -62,6 +69,7 @@ with open('../ustvgo_channel_info.txt') as file:
         playlist.write('#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Theitfixer85/myepg/master/blueepg.xml.gz"')
         playlist.write(f'\n{banner}\n')
         pbar = tqdm(total=total)
+        sample = ''
         for line in file:
             line = line.strip()
             if not line or line.startswith('~~'):
