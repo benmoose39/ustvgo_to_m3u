@@ -6,7 +6,6 @@ SERVER_IP = '10.10.10.10'   # Edit this line
 PORT = 9000
 
 headers = {'Referer':'https://ustvgo.tv/'}
-sample = requests.get('https://ustvgo.tv/player.php?stream=ABC', headers=headers).text
 
 basepath = os.path.dirname(os.path.realpath(__file__))
 app = Flask(__name__)
@@ -31,15 +30,16 @@ def playlist_generator():
 @app.route('/channels')
 def getChannel():
     code = request.args.get('id')
-    global sample
-    pl = sample.split("hls_src='")[1].split("'")[0].replace('ABC', code)
-    res = requests.get(pl)
-    if res.status_code == 403:
-        sample = requests.get('https://ustvgo.tv/player.php?stream=ABC', headers=headers).text
-        pl = sample.split("hls_src='")[1].split("'")[0].replace('ABC', code)
-    base = pl.split('playlist.m3u8')[0]
     head = '#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=818009,RESOLUTION=640x360,CODECS="avc1.64001f,mp4a.40.2"\n'
-    m3u = res.text.strip().split('\n')[-1]
+    sample = requests.get(f'https://ustvgo.tv/player.php?stream={code}', headers=headers).text
+    try:
+        pl = sample.split("hls_src='")[1].split("'")[0]
+        res = requests.get(pl)
+        base = pl.split('playlist.m3u8')[0]
+        m3u = res.text.strip().split('\n')[-1]
+    except Exception as e:
+        m3u = 'https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u'
+        return head + m3u
     return head + base + m3u
 
 if __name__ == '__main__':
