@@ -51,7 +51,7 @@ History  | History | https://raw.githubusercontent.com/Theitfixer85/myepg/master
 HLN  | HLN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/hln-us.png | 9233005762
 Hallmark Movies & Mysteries | HMM | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/hallmark-movies-and-mysteries-us.png | 9200020115
 Investigation Discovery  | ID | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/investigation-discovery-us.png | 9200002243 | VPN
-ION (WPXN) New York | IONNY | https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ION_Television_2016.svg/1200px-ION_Television_2016.svg.png | IDKEPG
+ION (WPXN) New York | IONNY | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/ion-television-us.png | IDKEPG
 Lifetime  | Lifetime | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/lifetime-us.png | 9200000502
 Lifetime Movie Network  | LifetimeM | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/lifetime-movie-network-us.png | 9200000502
 Magnolia Network  | DIY | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/magnolia-network-us.png | 9200000664
