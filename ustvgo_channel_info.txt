@@ -10,7 +10,7 @@ BET  | BET | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/b
 Boomerang  | Boomerang | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/boomerang-us.png | 9233015844
 Bravo  | Bravo | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/bravo-us.png | 9200020094
 C-span  | CSPAN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/c-span-1-us.png | 9233007144
-CBS  | CBS | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-logo-white-us.png | 9200018514
+CBS  | CBS | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-logo-white-us.png | 9200018514 | VPN
 CBS 2 New York | CBSNY | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-logo-white-us.png | 9200017850
 CBS Sports Network  | CBSSN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-sports-network-us.png | 9233015468
 Cinemax  | Cinemax | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cinemax-us.png | 9200000143
@@ -82,7 +82,7 @@ Showtime  | Showtime | https://raw.githubusercontent.com/Theitfixer85/myepg/mast
 StarZ  | StarZ | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/starz-us.png | 9233013809
 SundanceTV  | SundanceTV | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/sundance-tv-us.png | 9233001687
 SYFY  | SYFY | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/syfy-us.png | 9200004316
-TBS  | TBS | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tbs-us.png | 9233011348
+TBS  | TBS | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tbs-us.png | 9233011348 | VPN
 Turner Classic Movies (TCM)  | TCM | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/tcm-movies-us.png | 9200017928 | VPN
 Telemundo  | Telemundo | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/telemundo-us.png | 9200011857
 Tennis Channel  | Tennis | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/tennis-channel-us.png | 9200017917 | VPN
