@@ -76,6 +76,7 @@ Oxygen  | Oxygen | https://raw.githubusercontent.com/Theitfixer85/myepg/master/L
 Paramount  | Paramount | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/paramount-network-us.png | 9233001931 | VPN
 PBS  | PBS | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/pbs-us.png | 9233004141
 POP  | POP | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/pop-us.png | 9200018304
+Reelz Channel | Reelz | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/reelz-us.png | 9200011769
 Science  | Science | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/discovery-science-us.png | 9200019847
 SEC Network  | SECN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/sec-network-us.png | 9233002484
 Showtime  | Showtime | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/showtime-us.png | 9233011188 | VPN
@@ -86,6 +87,7 @@ TBS  | TBS | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/U
 Turner Classic Movies (TCM)  | TCM | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/tcm-movies-us.png | 9200017928 | VPN
 Telemundo  | Telemundo | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/telemundo-us.png | 9200011857
 Tennis Channel  | Tennis | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/tennis-channel-us.png | 9200017917 | VPN
+TeenNick | TeenNick | https://imgs.search.brave.com/fvTxKs3To3_J1_FJa6ET_3xFnphNuNDli3oikZVtEwo/rs:fit:1200:238:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9iL2JkL1Rl/ZW5OaWNrX2xvZ29f/MjAwOS5zdmcvMTI4/MHB4LVRlZW5OaWNr/X2xvZ29fMjAwOS5z/dmcucG5n | 9200006974
 TLC  | TLC | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tlc-us.png | 9200016249
 TNT  | TNT | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tnt-us.png | 9233011830 | VPN
 Travel Channel  | Travel | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/travel-channel-us.png | 9233000035
