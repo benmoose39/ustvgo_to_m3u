@@ -9,9 +9,9 @@ Big Ten Network  | BTN | https://raw.githubusercontent.com/Theitfixer85/myepg/ma
 BET  | BET | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/bet-us.png | 9233000226 | VPN
 Boomerang  | Boomerang | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/boomerang-us.png | 9233015844
 Bravo  | Bravo | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/bravo-us.png | 9200020094
-C-span  | CSPAN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/c-span-1-us.png | 9233007144
-CBS  | CBS | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-logo-white-us.png | 9200018514 | VPN
-CBS 2 New York | CBSNY | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-logo-white-us.png | 9200017850
+C-span  | CSPAN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/c-span-1-us.png | 9233007144 
+CBS  | CBS | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-logo-white-us.png | 9200018514 
+CBS 2 New York | CBSNY | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-logo-white-us.png | 9200017850 | VPN
 CBS Sports Network  | CBSSN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-sports-network-us.png | 9233015468
 Cinemax  | Cinemax | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cinemax-us.png | 9200000143
 CMT  | CMT | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cmt-us.png | 9233000169
@@ -91,7 +91,7 @@ TeenNick | TeenNick | https://imgs.search.brave.com/fvTxKs3To3_J1_FJa6ET_3xFnphN
 TLC  | TLC | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tlc-us.png | 9200016249
 TNT  | TNT | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tnt-us.png | 9233011830 | VPN
 Travel Channel  | Travel | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/travel-channel-us.png | 9233000035
-truTV  | TruTV | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tru-tv-us.png | 9233015561
+truTV  | TruTV | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tru-tv-us.png | 9233015561 | VPN
 TV Land  | TVLand | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/tv-land-us.png | 9233005468
 The Weather Channel  | TWC | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/weather-channel-us.png | 9200016258
 Univision  | Univision | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/univision-us.png | 9200000867 | VPN
