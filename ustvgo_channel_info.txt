@@ -10,7 +10,7 @@ BET  | BET | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/b
 Boomerang  | Boomerang | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/boomerang-us.png | 9233015844
 Bravo  | Bravo | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/bravo-us.png | 9200020094
 C-span  | CSPAN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/c-span-1-us.png | 9233007144 
-CBS  | CBS | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-logo-white-us.png | 9200018514 
+CBS  | CBS | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-logo-white-us.png | 9200018514
 CBS 2 New York | CBSNY | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-logo-white-us.png | 9200017850 | VPN
 CBS Sports Network  | CBSSN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-sports-network-us.png | 9233015468
 Cinemax  | Cinemax | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cinemax-us.png | 9200000143
