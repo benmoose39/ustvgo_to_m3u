@@ -12,7 +12,7 @@ app = Flask(__name__)
 
 @app.route('/ustvgo.m3u')
 def playlist_generator():
-    playlist = '#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Theitfixer85/myepg/master/blueepg.xml.gz"'
+    playlist = '#EXTM3U x-tvg-url="https://www.kcpcdr.com/ustvgo.xml.gz"'
     info_file = f'{basepath}/ustvgo_channel_info.txt'
     with open(info_file) as f:
         for line in f:
