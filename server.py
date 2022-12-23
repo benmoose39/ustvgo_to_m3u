@@ -13,18 +13,20 @@ app = Flask(__name__)
 @app.route('/ustvgo.m3u')
 def playlist_generator():
     playlist = '#EXTM3U x-tvg-url="https://www.kcpcdr.com/ustvgo.xml.gz"'
-    info_file = f'{basepath}/ustvgo_channel_info.txt'
-    with open(info_file) as f:
-        for line in f:
-            line = line.strip()
-            if not line:
-                continue
-            line = line.split('|')
-            name = line[0].strip()
-            code = line[1].strip()
-            logo = line[2].strip()
-            playlist += f'\n#EXTINF:-1 tvg-id="{code}" group-title="ustvgo" tvg-logo="{logo}", {name}'
-            playlist += f'\nhttp://{SERVER_IP}:{PORT}/channels?id={code}'
+    #info_file = f'{basepath}/ustvgo_channel_info.txt'
+    info_file = 'https://raw.githubusercontent.com/benmoose39/ustvgo_to_m3u/main/ustvgo_channel_info.txt'
+    file = requests.get(info_file).text.split('\r\n')
+
+    for line in file:
+        line = line.strip()
+        if not line:
+            continue
+        line = line.split('|')
+        name = line[0].strip()
+        code = line[1].strip()
+        logo = line[2].strip()
+        playlist += f'\n#EXTINF:-1 tvg-id="{code}" group-title="ustvgo" tvg-logo="{logo}", {name}'
+        playlist += f'\nhttp://{SERVER_IP}:{PORT}/channels?id={code}'
     return playlist
 
 @app.route('/channels')
