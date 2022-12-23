@@ -67,18 +67,11 @@ def grab(line):
     playlist.write(f'\n#EXTINF:-1 tvg-id="{code}" group-title="ustvgo" tvg-logo="{logo}", {name}')
     playlist.write(f'\n{m3u}')
 
-total = 0
-with open('../ustvgo_channel_info.txt') as file:
-    for line in file:
-        line = line.strip()
-        if not line or line.startswith('~~'):
-            continue
-        total += 1
-
 s = requests.Session()
 
 info_file = 'https://raw.githubusercontent.com/benmoose39/ustvgo_to_m3u/main/ustvgo_channel_info.txt'
 file = s.get(info_file).text.split('\r\n')
+total = len(list(filter(lambda x:x, file)))
 
 with open('../ustvgo.m3u', 'w') as playlist:
     print('[*] Generating your playlist, please wait...\n')
