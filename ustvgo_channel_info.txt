@@ -1,4 +1,5 @@
-ABC | ABC | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/abc-us.png | 9233011874
+ABC SD | ABC | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/abc-us.png | 9233011874
+ABC HD | ABCHD | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/abc-us.png | 9233011874
 ABC 7 New York | ABCNY | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/abc-us.png | 9200000057
 ACC Network  | ACCN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/acc-network-us.png | 9200017734
 AE | AE | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/a-and-e-us.png | 9200004889 | VPN
@@ -10,7 +11,8 @@ BET  | BET | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/b
 Boomerang  | Boomerang | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/boomerang-us.png | 9233015844
 Bravo  | Bravo | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/bravo-us.png | 9200020094
 C-span  | CSPAN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/c-span-1-us.png | 9233007144
-CBS  | CBS | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-logo-white-us.png | 9200018514 | VPN
+CBS SD | CBS | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-logo-white-us.png | 9200018514 | VPN
+CBS HD | CBSHD | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-logo-white-us.png | 9200018514 | VPN
 CBS 2 New York | CBSNY | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-logo-white-us.png | 9200017850
 CBS Sports Network  | CBSSN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cbs-sports-network-us.png | 9233015468
 Cinemax  | Cinemax | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cinemax-us.png | 9200000143
@@ -19,25 +21,30 @@ Cartoon Network  | CN | https://raw.githubusercontent.com/Theitfixer85/myepg/mas
 CNBC  | CNBC | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/cnbc-us.png | 9200009145
 CNN  | CNN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cnn-us.png | 9233008130
 Comedy Central | Comedy | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/comedy-central-us.png | 9233009509
-CW  | CW | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cw-us.png | 9233011398
+CW SD | CW | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cw-us.png | 9233011398
+CW HD | CWHD | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cw-us.png | 9233011398
 CW 11 New York | CWNY | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cw-us.png | 9233011398
 Destination America  | DA | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/destination-america-us.png | 9200014472
 Discovery  | Discovery | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/discovery-channel-us.png | 9233001914 | VPN
 Disney  | Disney | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/disney-channel-us.png | 9200011893
 DisneyJr  | DisneyJr | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/disney-junior-us.png | 9200016560
 DisneyXD  | DisneyXD | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/disney-xd-us.png | 9200004852
+Do It Yourself (DIY) | DIY | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/magnolia-network-us.png | 9200000664
 E!  | E | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/e-entertainment-us.png | 9233003794
-ESPN  | ESPN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/espn-us.png | 9233007996 | VPN
+ESPN SD | ESPN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/espn-us.png | 9233007996 | VPN
+ESPN HD | ESPNHD | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/espn-us.png | 9233007996 | VPN
 ESPN2  | ESPN2 | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/espn-2-us.png | 9200016131
 ESPNU  | ESPNU | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/espn-u-us.png | 9233011350
 ESPNews  | ESPNews | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/espnews-us.png | 9200006523
 FoodNetwork  | FoodNetwork | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/food-network-us.png | 9233005598
-FOX  | FOX | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/Fox5.png | 9233002271
+FOX SD | FOX | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/Fox5.png | 9233002271
+FOX HD | FOXHD | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/Fox5.png | 9233002271
 FOX 5 New York | FOXNY | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/Fox5.png | 9233003497
 FoxBusiness  | FoxBusiness | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fox-business-us.png | 9200009124
 FoxNews  | FoxNews | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fox-news-us.png | 9233006969
 Freeform  | Freeform | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/freeform-us.png | 9200000497
-Fox Sports 1 (FS1)  | FS1 | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fox-sports-1-us.png | 9233000539 | VPN
+Fox Sports 1 SD (FS1 SD) | FS1 | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fox-sports-1-us.png | 9233000539 | VPN
+Fox Sports 1 HD (FS1 HD) | FS1HD | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fox-sports-1-us.png | 9233000539 | VPN
 Fox Sports 2 (FS2)  | FS2 | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fox-sports-2-us.png | 9200009884
 FX  | FX | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/fx-us.png | 9233006959
 FX Movie Channel  | FXMovie | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/fxm-movie-channel-us.png | 9233013967
@@ -45,7 +52,8 @@ FXX  | FXX | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/f
 Golf Channel  | GOLF | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nbc-golf-channel-us.png | 9200011865 | VPN
 Game Show Network  | GSN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/game-show-network-us.png | 9200019858
 Hallmark Channel  | Hallmark | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/hallmark-us.png | 9200016034
-HBO  | HBO | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/hbo-us.png | 9200004886 | VPN
+HBO SD | HBO | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/hbo-us.png | 9200004886 | VPN
+HBO HD | HBOHD | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/hbo-us.png | 9200004886 | VPN
 HGTV  | HGTV | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/hgtv-us.png | 9200004467
 History  | History | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/history-channel-us.png | 9233008002 | VPN
 HLN  | HLN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/hln-us.png | 9233005762
@@ -54,7 +62,6 @@ Investigation Discovery  | ID | https://raw.githubusercontent.com/Theitfixer85/m
 ION (WPXN) New York | IONNY | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/ion-television-us.png | 9233015369
 Lifetime  | Lifetime | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/lifetime-us.png | 9200000502
 Lifetime Movie Network  | LifetimeM | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/lifetime-movie-network-us.png | 9200000502
-Magnolia Network  | DIY | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/magnolia-network-us.png | 9200000664
 MLB Network  | MLB | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/mlb-network-us.png | 9200009223
 Motor Trend  | MotorTrend | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/motor-trend-us.png | 9233003479
 MSNBC  | MSNBC | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/msnbc-alt-us.png | 9233006803
@@ -62,11 +69,14 @@ MTV  | MTV | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/U
 National Geographic  | NatGEO | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/national-geographic-us.png | 9233009337 | VPN
 Nat Geo Wild  | NatGEOWild | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nat-geo-wild-us.png | 9200004683
 NBA TV  | NBA | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nba-tv-us.png | 9200000070 | VPN
-NBC  | NBC | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nbc-logo-2013-us.png | 9233009876 | VPN
+NBC SD | NBC | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nbc-logo-2013-us.png | 9233009876 | VPN
+NBC HD | NBCHD | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nbc-logo-2013-us.png | 9233009876 | VPN
 NBC 4 New York | NBCNY | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nbc-logo-2013-us.png | 9200016000 | VPN
 NBC Sports (NBCSN)  | NBCSN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nbcsn-us.png | 9233000030 | VPN
-NFL Network  | NFL | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/nfl-network-us.png | 9200004330 | VPN
+NFL Network SD | NFL | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/nfl-network-us.png | 9200004330 | VPN
+NFL Network HD | NFLHD | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/nfl-network-us.png | 9200004330 | VPN
 NFL Redzone  | NFLRZ | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nfl-red-zone-us.png | 9233000241
+NHL Network HD | NHLHD | | 9200016261
 Nickelodeon  | Nickelodeon | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nickelodeon-us.png | 9233011497
 Nicktoons  | Nicktoons | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nick-toons-us.png | 9200020469
 One America News Network  | OAN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/one-america-news-network-us.png | 9200005058
