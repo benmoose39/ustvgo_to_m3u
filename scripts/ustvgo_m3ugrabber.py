@@ -76,22 +76,25 @@ with open('../ustvgo_channel_info.txt') as file:
         total += 1
 
 s = requests.Session()
-with open('../ustvgo_channel_info.txt') as file:
-    with open('../ustvgo.m3u', 'w') as playlist:
-        print('[*] Generating your playlist, please wait...\n')
-        playlist.write('#EXTM3U x-tvg-url="https://www.kcpcdr.com/ustvgo.xml.gz"')
-        playlist.write(f'\n{banner}\n')
-        pbar = tqdm(total=total)
-        vpn_sample = ''
-        novpn_sample = ''
-        for line in file:
-            line = line.strip()
-            if not line or line.startswith('~~'):
-                continue
-            line = line.split('|')
-            pbar.update(1)
-            grab(line)
-        pbar.close()
-        print('\n[SUCCESS] Playlist is generated!\n')
-        done()
+
+info_file = 'https://raw.githubusercontent.com/benmoose39/ustvgo_to_m3u/main/ustvgo_channel_info.txt'
+file = s.get(info_file).text.split('\r\n')
+
+with open('../ustvgo.m3u', 'w') as playlist:
+    print('[*] Generating your playlist, please wait...\n')
+    playlist.write('#EXTM3U x-tvg-url="https://www.kcpcdr.com/ustvgo.xml.gz"')
+    playlist.write(f'\n{banner}\n')
+    pbar = tqdm(total=total)
+    vpn_sample = ''
+    novpn_sample = ''
+    for line in file:
+        line = line.strip()
+        if not line or line.startswith('~~'):
+            continue
+        line = line.split('|')
+        pbar.update(1)
+        grab(line)
+    pbar.close()
+    print('\n[SUCCESS] Playlist is generated!\n')
+    done()
         
