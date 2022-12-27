@@ -44,7 +44,7 @@ while True:
 def getSample():
     vpn = False
     headers = {'Referer':'https://ustvgo.tv/'}
-    src = s.get('https://ustvgo.tv/player.php?stream=ABC', headers=headers).text
+    src = s.get('https://ustvgo.tv/player.php?stream=CNN', headers=headers).text
     global novpn_sample
     novpn_sample = src.split("hls_src='")[1].split("'")[0]
     src = s.get('https://ustvgo.tv/player.php?stream=BET', headers=headers).text
@@ -63,7 +63,7 @@ def grab(line):
     if line[-1].strip() == 'VPN':
         m3u = vpn_sample.replace('BET', code)
     else:
-        m3u = novpn_sample.replace('ABC', code)
+        m3u = novpn_sample.replace('CNN', code)
     playlist.write(f'\n#EXTINF:-1 tvg-id="{code}" group-title="ustvgo" tvg-logo="{logo}", {name}')
     playlist.write(f'\n{m3u}')
 
