@@ -26,6 +26,7 @@ CW HD | CWHD | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos
 CW 11 New York | CWNY | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/cw-us.png | 9233011398
 Destination America  | DA | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/destination-america-us.png | 9200014472
 Discovery  | Discovery | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/discovery-channel-us.png | 9233001914 | VPN
+Discovery Family | DiscoveryFamily | https://upload.wikimedia.org/wikipedia/commons/9/9b/Discovery_Family_logo.svg | 9233015612
 Disney  | Disney | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/disney-channel-us.png | 9200011893
 DisneyJr  | DisneyJr | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/disney-junior-us.png | 9200016560
 DisneyXD  | DisneyXD | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/disney-xd-us.png | 9200004852
@@ -79,6 +80,7 @@ NFL Redzone  | NFLRZ | https://raw.githubusercontent.com/Theitfixer85/myepg/mast
 NHL Network HD | NHLHD | | 9200016261 | VPN
 Nickelodeon  | Nickelodeon | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nickelodeon-us.png | 9233011497
 Nicktoons  | Nicktoons | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/nick-toons-us.png | 9200020469
+Nick Jr | NickJr | https://upload.wikimedia.org/wikipedia/commons/8/83/Nick_Jr._Channel_logo.svg | 9233007153
 One America News Network  | OAN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/one-america-news-network-us.png | 9200005058
 Oprah Winfrey Network (OWN)  | OWN | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/opra-winfrey-network-us.png | 9200004740
 Olympic Channel  | OLY | https://raw.githubusercontent.com/Theitfixer85/myepg/master/Logos/US/olympics.png | 9233008939
